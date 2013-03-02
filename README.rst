@@ -23,3 +23,7 @@ gcc hello_world.c -o hello
  
 Then execute :: 
 ./hello
+
+REGARDS:
+_______
+Thank you for contribution
